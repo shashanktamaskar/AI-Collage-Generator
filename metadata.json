@@ -1,0 +1,5 @@
+{
+  "name": "AI Social Media Collage Creator",
+  "description": "An application that uses Gemini AI to intelligently select the best photos from an event, arranges them in a professional layout, adds branding, and provides a 'virality' score for the final result.",
+  "requestFramePermissions": []
+}
